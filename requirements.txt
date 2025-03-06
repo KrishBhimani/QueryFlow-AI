@@ -13,5 +13,6 @@ flask
 flask_cors
 speechrecognition
 gtts
+portaudio19-dev
 pyaudio
 faiss-cpu
