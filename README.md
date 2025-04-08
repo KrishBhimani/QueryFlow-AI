@@ -9,7 +9,7 @@ An intelligent **AI-powered enterprise support assistant** designed to streamlin
 - **RAG with Chat History**: Ensures context-aware responses by maintaining conversational memory.
 - **Voice & Text Input**: Users can interact via both text and voice commands.
 - **Secure & Scalable**: Built with API security and modular architecture for enterprise integration.
-- **Modern UI**: Developed with **React & Streamlit** for an intuitive user experience.
+- **Modern UI**: Developed with **Streamlit** for an intuitive user experience.
 - **Fast Information Retrieval**: Optimized with **vector stores** for efficient document search.
 
 ## 🛠️ Installation
