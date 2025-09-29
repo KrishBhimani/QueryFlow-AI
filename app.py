@@ -279,4 +279,6 @@ st.markdown(
 st.markdown('</div>', unsafe_allow_html=True)
 
 # Add some spacing at the bottom
+
 st.markdown('<div style="height: 50px;"></div>', unsafe_allow_html=True)
+
